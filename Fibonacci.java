@@ -1,7 +1,7 @@
 public class Fibonacci {
 
     public static int fib(int num) {
-        // Exit at 2 because anything before it equals 1
+
         if (num < 2)
             return 1;
         else
